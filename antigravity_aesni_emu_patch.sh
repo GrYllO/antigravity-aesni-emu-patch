@@ -2,6 +2,9 @@
 # Unified Antigravity AES-NI Emulation Patch Script
 # Resolves CPU compatibility issues on hosts lacking AES-NI instructions.
 # Requires QEMU user emulator (qemu-x86_64).
+#
+# Copyright (c) 2026 Felipe Grilo (aka GrYllO)
+# MIT License: <https://opensource.org/license/mit/>
 
 # Default paths
 DEFAULT_QEMU_NAME="qemu-x86_64"
